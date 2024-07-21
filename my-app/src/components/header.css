@@ -1,0 +1,28 @@
+
+.linkBox{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(98, 110, 213); */
+    background-color: black;
+    color: #fff;
+    padding: 2rem;
+}
+.logo{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.logo span{
+    color: orangered;
+}
+.link{
+    text-decoration: none;
+    color: #fff;
+    font-size: medium;
+}
+.links{
+    display:flex;
+    justify-content: space-around;
+    gap: 4rem;
+    
+    
+}

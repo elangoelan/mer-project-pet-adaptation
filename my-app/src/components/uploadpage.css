@@ -1,0 +1,45 @@
+.box-f{
+    margin-top: 50px;
+    margin-left: 35%;
+    border-style: solid;
+    padding: 40px;
+    width:30%;
+    border-radius: 25px;
+}
+
+.eachbox{
+      
+      padding: 1rem;
+}
+input,label{
+}
+.upbut{
+    width: 15rem;
+    height: 3rem;
+    margin-top: 10px;
+    margin-left: 25%;
+    border: none;
+    border-radius: 18px;
+    color: rgb(241, 245, 245);
+    background-color: rgb(49, 130, 80);
+    cursor: pointer;
+    
+    
+
+}
+.upbut:active {
+    background-color: rgb(5, 67, 29);
+    
+    transform: translateY(4px);
+  }
+.upbut :hover{
+    background-color: black;
+
+}
+.full{
+   background-color: rgb(195, 127, 44);
+   background-image: url("https://images.pexels.com/photos/1452717/pexels-photo-1452717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
